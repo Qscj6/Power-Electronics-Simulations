@@ -9,8 +9,6 @@
 
 ```text
 .
-├── question/
-│   └── 三相桥式全控电路仿真小组作业.docx   # 原始作业要求说明
 ├── work1/                               # 任务一：单相桥式全控整流
 │   ├── Models/
 │   │   └── Single_Phase_Rectifier.slx    # 单相仿真模型 (2023b)
@@ -26,8 +24,10 @@
     │   └── Three_Phase_Bridge_Rectifier.slx # 三相仿真模型 (2023b)
     ├── Images/
     │   └── 截图.docx                      # 实验波形汇总记录
-    └── pdf/
-        └── 三相桥式全控整流电路仿真分析报告_题目3.pdf
+    ├── pdf/
+    │   └── 三相桥式全控整流电路仿真分析报告_题目3.pdf
+    └── question/
+        └── 三相桥式全控电路仿真小组作业.docx   # 原始作业要求说明
 ```
 
 ---
